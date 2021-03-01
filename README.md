@@ -1,2 +1,1 @@
-# Class22Project
-Supply Mission
+# SupplyMission
